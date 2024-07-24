@@ -11,11 +11,11 @@
   <h3>⚡ Skills</h3>
     
   ### General
-  [![Frontend](https://skillicons.dev/icons?i=html,css,js,figma,lua,git,npm,pnpm)](https://skillicons.dev)
+  ![Frontend](https://skillicons.dev/icons?i=html,css,js,figma,lua,git,npm,pnpm)
   
   ### Frontend
-  [![Backend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,astro)](https://skillicons.dev)
+  ![Backend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,astro)
   
   ### Backend
-  [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb)](https://skillicons.dev)
+  ![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb)
 </div>
