@@ -8,7 +8,7 @@
   age: idk<br/>
   location: Latvia<br/>
   os: arch (btw)<br/>
-  editor: nvim, vscode<br/>
+  editor: nvim<br/>
   
   professional googler<br/>
   stack overflow copy-paste engineer<br/>
